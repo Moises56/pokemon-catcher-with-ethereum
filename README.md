@@ -23,4 +23,5 @@ npm start
 ```
 ## img
 
-![alt text](https://github.com/moises56/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Moises56/pokemon-catcher-with-ethereum/blob/master/img/i1.png?raw=true)
+![alt text](https://github.com/Moises56/pokemon-catcher-with-ethereum/blob/master/img/i2.png?raw=true)
